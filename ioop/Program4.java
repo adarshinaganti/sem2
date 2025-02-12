@@ -1,6 +1,3 @@
-package src;
-// Read an integer array and reverse it.
-
 import java.util.Scanner;
 
 public class Program4 {

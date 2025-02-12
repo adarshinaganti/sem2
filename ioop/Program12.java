@@ -1,6 +1,3 @@
-package src;
-// Define an employee class
-
 import java.util.Scanner;
 
 class Employee {

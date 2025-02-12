@@ -1,6 +1,3 @@
-package src;
-// Define a student class
-
 import java.util.Scanner;
 
 class Student {

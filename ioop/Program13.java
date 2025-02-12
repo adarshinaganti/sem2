@@ -1,6 +1,3 @@
-package src;
-// Define a mixer class
-
 import java.util.Scanner;
 
 class Mixer {

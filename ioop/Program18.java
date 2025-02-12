@@ -1,6 +1,3 @@
-package src;
-// Define a counter class
-
 class Counter {
 	private static int count = 0;
 

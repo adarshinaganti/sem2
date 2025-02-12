@@ -1,6 +1,3 @@
-package src;
-// Write a Java programs to print factorial of a given number recursively.
-
 import java.util.Scanner;
 
 public class Program9 {

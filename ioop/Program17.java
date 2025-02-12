@@ -1,6 +1,3 @@
-package src;
-// Define a bank account class
-
 class BankAccount {
 	private String name;
 	private long acc_no;

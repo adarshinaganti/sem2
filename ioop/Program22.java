@@ -1,6 +1,3 @@
-package src;
-// Create a weather class
-
 class Weather {
     static class Forecast {
         public static String predictWeather(float temp, float humidity) {

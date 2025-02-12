@@ -1,7 +1,3 @@
-package src;
-// A Taxi service offers a new service based on travel distance. Write a Java program to calculate the total fare by considering the following charges. First 5 km = INR 10/km, Next 15 km = INR 8/km, Next 25 km = INR 5/km.
-// Assuming fare for distances above 45km is 5/km
-
 import java.util.Scanner;
 
 public class Program7 {

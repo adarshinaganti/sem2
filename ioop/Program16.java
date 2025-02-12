@@ -1,6 +1,3 @@
-package src;
-// Define an employee class and use constructor
-
 class Employee {
 	private String name;
 	private int ID;

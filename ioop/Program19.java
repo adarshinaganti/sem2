@@ -1,6 +1,3 @@
-package src;
-// Enhance the student class
-
 class Student {
     class Subject {
         private String subjectName;

@@ -1,6 +1,3 @@
-package src;
-// Define a student class and use constructor
-
 class Student {
 	private String name;
 	private int rno;

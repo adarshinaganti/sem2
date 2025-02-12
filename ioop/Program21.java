@@ -1,6 +1,3 @@
-package src;
-// Create a shopping cart class
-
 class ShoppingCart {
     class Item {
         private String itemName;

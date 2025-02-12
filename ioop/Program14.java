@@ -1,6 +1,3 @@
-package src;
-// Define a die class
-
 import java.util.Random;
 
 class Die {

@@ -1,6 +1,3 @@
-package src;
-// Write a Java program to display non principal diagonal elements and find their sum.
-
 import java.util.Scanner;
 
 public class Program8 {

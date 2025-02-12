@@ -1,6 +1,3 @@
-package src;
-// Write a java program to add two numbers using the bitwise operator and check if the output is an even or odd number.
-
 import java.util.Scanner;
 
 public class Program5 {

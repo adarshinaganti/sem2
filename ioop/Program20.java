@@ -1,6 +1,3 @@
-package src;
-// Enhance the employee class
-
 class Employee {
     private String eName;
     private float salary;

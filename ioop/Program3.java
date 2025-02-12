@@ -1,6 +1,3 @@
-package src;
-// Find minimum and maximum of three numbers using ternary operator.
-
 import java.util.Scanner;
 
 public class Program3 {
