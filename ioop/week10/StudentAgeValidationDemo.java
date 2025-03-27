@@ -10,7 +10,7 @@ class Student {
 		}
 		this.name = name;
 		this.age = age;
-		System.out.println(""Student " + name + " registered successfully with age " + age + "."")
+		System.out.println("Student " + name + " registered successfully with age " + age + ".");
 	}
 	
 	public String get_name() {
