@@ -1,3 +1,5 @@
+package week10;
+
 class Student {
     public double calculateAverage(int totalMarks, int numberOfSubjects) {
         if (numberOfSubjects == 0) {

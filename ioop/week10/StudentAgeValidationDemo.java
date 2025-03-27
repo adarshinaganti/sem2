@@ -1,3 +1,5 @@
+package week10;
+
 class Student {
 	private String name;
 	private int age;
